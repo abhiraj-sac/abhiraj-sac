@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/0*JeblKGSeSsyozlsF.gif)]
+
 
 <h1 align="center">Hi 👋, I'm Abhiraj sachan</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
