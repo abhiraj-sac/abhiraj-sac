@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhiraj sachan</h1>
-<h3 align="center">A passionate Data enthusiast from India</h3>
+<h3 align="center">A passionate Software Dev and a Full stack dev from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Whatsapp chat Analysis](https://github.com/abhiraj-sac/ML-DATA-OPERATIONS)
 
-- 🌱 I’m currently learning **python ,django ,Dsa ,Advance sql**
+- 🌱 I’m currently learning **Java ,Javascript ,node js,Dsa ,Advance sql , **
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhiraj-sac?tab=repositories](https://github.com/abhiraj-sac?tab=repositories)
 
