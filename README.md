@@ -13,7 +13,7 @@
 
 - 💼 Backend & full-stack development with **Java, JavaScript, Node.js/Express, REST APIs, MongoDB, Redis**, deployed on **AWS**
 
-- 🏆 **450+ problems solved on LeetCode** &nbsp;|&nbsp; **CodeChef 2★** (1348 rating) &nbsp;|&nbsp; **150+ on GeeksforGeeks**
+- 🏆 **450+ problems solved on LeetCode** &nbsp;|&nbsp; **CodeChef 2★** (1402 rating) &nbsp;|&nbsp; **150+ on GeeksforGeeks**
 
 - 👨‍💻 All of my projects are available at [github.com/abhiraj-sac](https://github.com/abhiraj-sac?tab=repositories)
 
